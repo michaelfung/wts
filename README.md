@@ -6,7 +6,7 @@ need to setup firewall port forwarding or DDNS.
 
 ## Test Drive
 
-The project is in infancy stage. But you can test drive by:
+Though the project is in its infancy, you can test drive by:
 
 1. Download the [MCU Emulator](https://github.com/michaelfung/mcu-emulator).
 
