@@ -1,8 +1,12 @@
 # User Account API
 
-### Login
+### > Login
 URL: /api/user/login
 Method: Post
+
+#### Description
+
+On successful authentication, a http cookie will be given by the server.
 
 #### Parameters
 
