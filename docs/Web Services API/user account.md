@@ -1,6 +1,8 @@
 # User Account API
 
-### > Login
+### Login API
+
+#### URL
 URL: /api/user/login
 Method: Post
 
