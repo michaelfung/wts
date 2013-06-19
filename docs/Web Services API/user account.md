@@ -1,16 +1,12 @@
 # User Account API
 
-## Login
+### Login
+URL: /api/user/login
+Method: Post
 
-### URL
-/api/user/login
-
-### Method
-** Post **
-
-### Parameters
+#### Parameters
 
 |param|desc|
-|---|---
+|---|---|
 |user_id|registered user id|
 |password|password|
