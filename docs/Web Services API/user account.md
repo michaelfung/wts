@@ -3,13 +3,13 @@
 ### Login API
 
 #### URL
-**URL:** /api/user/login
+  * URL: `/api/user/login`
 
-**Method:** Post
+  * Method: `Post`
 
 #### Description
 
-On successful authentication, a http cookie will be given by the server.
+On successful authentication, an access token(http cookie) will be given by the server.
 
 #### Parameters
 
