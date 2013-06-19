@@ -3,8 +3,9 @@
 ### Login API
 
 #### URL
-URL: /api/user/login
-Method: Post
+**URL:** /api/user/login
+
+**Method:** Post
 
 #### Description
 
